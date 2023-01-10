@@ -1,0 +1,76 @@
+{
+	"liste" : [	
+		{
+			"idProduit" : null,
+            "nomProduit" : "Thé vert détox",
+            "image" : "1.jpg",
+			"description" : "Désintoxique et purifie le corps",
+			"categorie" : "Gestion du poids",
+			"prixReel" : 12.99
+		},
+		{
+			"idProduit" : null,
+            "nomProduit" : "Thé noir stimulant",
+            "image" : "2.jpg",
+			"description" : "Réduit le risque de cancer",
+			"categorie" : "Santé cardiaque",
+			"prixReel" : 10.99
+		},
+		{
+            "idProduit" : null,
+            "nomProduit" : "Thé détente à la camomille",
+            "image" : "3.jpg",
+			"description" : "Aide à calmer le stress et l’anxiété",
+			"categorie" : "Sommeil",
+			"prixReel" : 15.99
+		},
+		{
+            "idProduit" : null,
+            "nomProduit" : "Thé riche Roiboos",
+            "image" : "4.jpeg",
+			"description" : "Réduit l’inflammation",
+			"categorie" : "Santé cardiaque",
+			"prixReel" : 14.99
+		},
+		{
+            "idProduit" : null,
+            "nomProduit" : "Thé citron et gingembre",
+            "image" : "5.jpeg",
+			"description" : "Favorise le transit intestinal",
+			"categorie" : "Systeme immunitaire",
+			"prixReel" : 12.99
+		},
+		{
+			"idProduit" : null,
+            "nomProduit" : "Thé canelle magique",
+            "image" : "6.jpeg",
+			"description" : "Soulage les douleurs menstruelles",
+			"categorie" : "Douleurs menstruelles",
+			"prixReel" : 18.99
+		},
+		{
+            "idProduit" : null,
+            "nomProduit" : "Thé douceur au miel",
+            "image" : "7.jpeg",
+			"description" : "Aide la stimulation du métabolisme",
+			"categorie" : "Gestion du poids",
+			"prixReel" : 16.99
+		},
+		{
+            "idProduit" : null,
+            "nomProduit" : "Thé à la menthe",
+            "image" : "8.jpeg",
+			"description" : "Apaise le syndrome du côlon irritable",
+			"categorie" : "Digestion",
+			"prixReel" : 10.99
+		},
+		{
+            "idProduit" : null,
+            "nomProduit" : "Thé girogle anesthésiant",
+            "image" : "9.jpeg",
+			"description" : "Soulage les troubles digestifs",
+			"categorie" : "Digestion",
+			"prixReel" : 14.99
+		}
+	]
+}
